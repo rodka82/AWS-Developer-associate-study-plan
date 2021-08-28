@@ -1,104 +1,43 @@
 AWS Developer Associate
-WhitePapers:
-	Recommended by Freecodecamp 
-		Architecting for the Cloud — AWS Best Practices
-		https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
-
-		Practicing Continuous Integration and Continuous Delivery on AWS
-		https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
-
-		Implementing Microservices on AWS
-		https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf
-
-		Running Containerized Microservices on AWS
-		https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf
-
-	Recommended by seanjziegler.com
-		1 – Overview of Amazon Web Services
-		https://d1.awsstatic.com/whitepapers/aws-overview.pdf
-
-		2 – How AWS Pricing Works
-		https://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf
-
-		3 – AWS Well-Architected Framework
-		https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
-
-		4 – AWS Storage Services Overview
-		https://d1.awsstatic.com/whitepapers/AWS%20Storage%20Services%20Whitepaper-v9.pdf
-
-		5 – Fault-Tolerant Components on AWS
-		https://d1.awsstatic.com/whitepapers/aws-building-fault-tolerant-applications.pdf?did=wp_card&trk=wp_card
-
-		6 – Implementing Microservices on AWS
-		https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf
-
-		7 – Overview of Deployment Options on AWS
-		https://d1.awsstatic.com/whitepapers/overview-of-deployment-options-on-aws.pdf
 	
-	Recommended by https://www.knowledgehut.com/
+	Whitepapers atualizados
+	
+	Developer Associate
+	
+			AWS Well-Architected Framework
+			https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html?did=wp_card&trk=wp_card
 
-		AWS Security Best Practices
-		https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf
+			Practicing Continuous Integration and Continuous Delivery on AWS
+			https://docs.aws.amazon.com/whitepapers/latest/practicing-continuous-integration-continuous-delivery/welcome.html?did=wp_card&trk=wp_card
 
-		Practicing Continuous Integration and Continuous Delivery on AWS
-		https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
+			Implementing Microservices on AWS
+			https://docs.aws.amazon.com/whitepapers/latest/microservices-on-aws/microservices-on-aws.html
 
-		Implementing Microservices on AWS
-		https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf
+			Running Containerized Microservices on AWS
+			https://docs.aws.amazon.com/whitepapers/latest/running-containerized-microservices/welcome.html?did=wp_card&trk=wp_card
 
+	Cloud Practitioner
+		Overview of Amazon Web Services
+		https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html?did=wp_card&trk=wp_card
+		
+		How AWS Pricing Works
+		https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/welcome.html?did=wp_card&trk=wp_card
+
+		AWS Storage Services Overview
+		https://docs.aws.amazon.com/whitepapers/latest/aws-storage-services-overview/welcome.html?did=wp_card&trk=wp_card
+
+		Overview of Deployment Options on AWS
+		https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/welcome.html?did=wp_card&trk=wp_card
+		
+	Outros Recomendados
 		Optimizing Enterprise Economics with Serverless Architectures
-		https://d1.awsstatic.com/whitepapers/optimizing-enterprise-economics-serverless-architectures.pdf
-
-		Running Containerized Microservices on AWS
-		https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf
-
+		https://d1.awsstatic.com/whitepapers/optimizing-enterprise-economics-serverless-architectures.pdf?did=wp_card&trk=wp_card
+		
 		Blue/Green Deployments on AWS
-		https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf
-
-		Architecting for the Cloud
-		https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
+		https://docs.aws.amazon.com/whitepapers/latest/blue-green-deployments/welcome.html?did=wp_card&trk=wp_card
 
 		Serverless Architectures with AWS Lambda
-		https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf
-
-***************************************************************************************************************
-	Whitepapers atualizados
-	FreeCodecamp
-	
-	AWS Well-Architected Framework
-	https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html?did=wp_card&trk=wp_card
-
-	Practicing Continuous Integration and Continuous Delivery on AWS
-	https://docs.aws.amazon.com/whitepapers/latest/practicing-continuous-integration-continuous-delivery/welcome.html?did=wp_card&trk=wp_card
-
-	Implementing Microservices on AWS
-	https://docs.aws.amazon.com/whitepapers/latest/microservices-on-aws/microservices-on-aws.html
-
-	Running Containerized Microservices on AWS
-	https://docs.aws.amazon.com/whitepapers/latest/running-containerized-microservices/welcome.html?did=wp_card&trk=wp_card
-
-	Recommended by seanjziegler.com
-	Overview of Amazon Web Services
-	https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html?did=wp_card&trk=wp_card
-	
-	How AWS Pricing Works
-	https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/welcome.html?did=wp_card&trk=wp_card
-
-	AWS Storage Services Overview
-	https://docs.aws.amazon.com/whitepapers/latest/aws-storage-services-overview/welcome.html?did=wp_card&trk=wp_card
-
-	Overview of Deployment Options on AWS
-	https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/welcome.html?did=wp_card&trk=wp_card
-		
-	Recommended by https://www.knowledgehut.com/
-	Optimizing Enterprise Economics with Serverless Architectures
-	https://d1.awsstatic.com/whitepapers/optimizing-enterprise-economics-serverless-architectures.pdf?did=wp_card&trk=wp_card
-	
-	Blue/Green Deployments on AWS
-	https://docs.aws.amazon.com/whitepapers/latest/blue-green-deployments/welcome.html?did=wp_card&trk=wp_card
-
-	Serverless Architectures with AWS Lambda
-	https://docs.aws.amazon.com/whitepapers/latest/serverless-architectures-lambda/welcome.html?did=wp_card&trk=wp_card
+		https://docs.aws.amazon.com/whitepapers/latest/serverless-architectures-lambda/welcome.html?did=wp_card&trk=wp_card
 	
 
 ☁️ Elastic Beanstalk
