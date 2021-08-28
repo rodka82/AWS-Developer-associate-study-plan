@@ -31,6 +31,7 @@ https://docs.aws.amazon.com/cloud9/
 
 SDK
 https://aws.amazon.com/tools/
+https://docs.aws.amazon.com/sdk-for-net/v3/developer-guide/welcome.html
 
 KMS
 https://docs.aws.amazon.com/kms/?id=docs_gateway
@@ -52,4 +53,3 @@ https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-par
 
 Secrets Manager
 https://docs.aws.amazon.com/secretsmanager/?id=docs_gateways
-
