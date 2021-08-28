@@ -1,0 +1,55 @@
+Elastic Beanstalk
+https://docs.aws.amazon.com/elastic-beanstalk/?id=docs_gateway
+
+ECS
+https://docs.aws.amazon.com/ecs/?id=docs_gateway
+
+Fargate
+https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html
+
+X-Ray
+https://docs.aws.amazon.com/xray/latest/devguide/xray-concepts.html
+
+ACM
+https://docs.aws.amazon.com/acm/latest/userguide/acm-concepts.html
+
+Route53
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/route-53-concepts.html
+
+API / SDK / CLI
+CLI
+https://docs.aws.amazon.com/cli/index.html
+
+Understanding and getting your AWS credentials
+https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html
+
+Programmatic Access
+https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html#access-keys-and-secret-access-keys
+
+Cloud9 
+https://docs.aws.amazon.com/cloud9/
+
+SDK
+https://aws.amazon.com/tools/
+
+KMS
+https://docs.aws.amazon.com/kms/?id=docs_gateway
+
+Cognito
+https://docs.aws.amazon.com/cognito/?id=docs_gateway
+
+SNS
+https://docs.aws.amazon.com/sns/?id=docs_gateway
+
+SQS
+https://docs.aws.amazon.com/sqs/?id=docs_gateway
+
+Kinesis
+https://docs.aws.amazon.com/kinesis/?id=docs_gateway
+
+Parameter Store
+https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html
+
+Secrets Manager
+https://docs.aws.amazon.com/secretsmanager/?id=docs_gateways
+
